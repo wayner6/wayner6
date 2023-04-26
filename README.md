@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![Wayne's GitHub stats](https://github-readme-stats-wayner6.vercel.app/api?username=wayner6)](https://github.com/anuraghazra/github-readme-stats)
 
