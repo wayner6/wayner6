@@ -1,5 +1,5 @@
 
-### Hi I'm Wayne [表情]
+### Hi I'm Wayne 👋
 
 <img style="max-width: 450px" align="right" src="https://github-readme-stats-wayner6.vercel.app/api?username=wayner6&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs,prs&include_all_commits=true&count_private=true" alt="Wayne's github stats"/>
 
