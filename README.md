@@ -1,5 +1,5 @@
 
-[![Wayne's GitHub stats](https://github-readme-stats-wayner6.vercel.app/api?username=wayner6&show_icons=true&theme=radical)]
+[![Wayne's GitHub stats](https://github-readme-stats-wayner6.vercel.app/api?username=wayner6&show_icons=true&theme=radical)]()
 
 
 
